@@ -1,0 +1,17 @@
+*
+!*.*
+!*/
+
+!Makefile
+
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.c
+*/data/*
+*.zip
+*.execuda
+*.exeopencl
